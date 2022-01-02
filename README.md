@@ -44,7 +44,7 @@
 
 <div align="left"> 
   
-  #### Cloud and database
+  #### ☁️ Cloud and database
 
   <a href=https://docs.docker.com/ target="_blank"><img height="22em" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> 
   <a href=https://docs.aws.amazon.com/ target="_blank"><img height="22em" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
