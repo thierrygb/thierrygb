@@ -70,15 +70,13 @@
   <a href= tahttps://getbootstrap.com/docs/4.1/getting-started/introduction/rhttps://getbootstrap.com/docs/4.1/getting-started/introduction/get="_blank"><img height="22em" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
   <a href=https://devdocs.io/react_native/ target="_blank"><img height="22em" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <a href=https://docs.flutter.dev/ target="_blank"><img height="22em" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <a href=https://docs.djangoproject.com/pt-br/4.0/ target="_blank"><img height="22em" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=gre"> 
-  <a href=https://docs.opencv.org/4.x/d4/db1/tutorial_documentation.html target="_blank"><img height="22em" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
 <div>  
   
 #### 🖥️: Platforms and OS  
 
 <div>
-  <a href=https://www.arduino.cc/en/main/docs target="_blank"><img height="22em" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">  
-  <a href=https://www.raspberrypi.com/documentation/ target="_blank"><img height="22em" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"> 
-  <a href=https://docs.microsoft.com/pt-br/windows/ target="_blank"><img height="22em" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> 
   <a href=https://wiki.archlinux.org/title/Main_page_(Portugu%C3%AAs) target="_blank"><img height="22em" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+  <a href=https://docs.microsoft.com/pt-br/windows/ target="_blank"><img height="22em" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> 
+  <a href=https://www.raspberrypi.com/documentation/ target="_blank"><img height="22em" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
+  <a href=https://www.arduino.cc/en/main/docs target="_blank"><img height="22em" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">  
 </div>
